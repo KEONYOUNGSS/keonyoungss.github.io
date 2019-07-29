@@ -1,15 +1,15 @@
-title:            Cloud Study Tracking
-description:      Statistics & Data science 
+title:            Site Title
+description:      Describe your website here.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: https://keonyoungss.github.io
+url:
 
 # Owner/author information
-  owner: SKT
-  name:           
+owner:
+  name:           Your Name
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
   email:          you@email.com

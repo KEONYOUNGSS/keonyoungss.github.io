@@ -8,8 +8,8 @@ words_per_minute: 200
 url: https://keonyoungss.github.io
 
 # Owner/author information
-owner: SKT
-  name:           Keonyoung
+  owner: SKT
+  name:           
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
   email:          you@email.com
